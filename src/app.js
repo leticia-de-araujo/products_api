@@ -12,7 +12,7 @@ app.use(express.json());
 app.use("/categories", categoriesRoutes);
 app.use("/products", productsRoutes);
 
-const PORT = process.env.PORT || 3333;
+const PORT = process.env.PORT || 3003;
 
 export default app.listen(PORT, () => {
   console.log(`Server running on ${PORT}`);

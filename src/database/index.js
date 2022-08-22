@@ -21,7 +21,7 @@ const database = new Client(
 
 export const startDatabase = async () => {
   await database.connect();
-  console.log("Database connected!");
+  console.log(`Database connected on ${database.port}`);
 };
 
 export default database;
