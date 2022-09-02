@@ -35,6 +35,14 @@ This project is an API CRUD developed with Node.js, Express, PostgreSQL and Dock
 
 ![image](https://user-images.githubusercontent.com/99448158/186049102-37d75c28-e482-4c2b-8d3e-55e41a000950.png)
 
+<h3>Author:</h3>
+
+<b>Letícia de Araújo Nunes</b>
+
+LinkedIn: https://www.linkedin.com/in/leticia-de-araujo-nunes/?locale=en_US
+
+Email: leticiadearaujonunes@gmail.com
+
 <hr></hr>
 
 [PT-BR]
@@ -69,3 +77,11 @@ Este projeto é uma API CRUD desenvolvida com Node.js, Express, PostgreSQL e Doc
 <h4>Diagrama Entidade-Relacionamento</h4>
 
 ![image](https://user-images.githubusercontent.com/99448158/186049102-37d75c28-e482-4c2b-8d3e-55e41a000950.png)
+
+<h3>Autora:</h3>
+
+<b>Letícia de Araújo Nunes</b>
+
+LinkedIn: https://www.linkedin.com/in/leticia-de-araujo-nunes/
+
+Email: leticiadearaujonunes@gmail.com
